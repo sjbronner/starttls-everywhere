@@ -86,6 +86,12 @@
     "salesforce.com": {
       "policy-alias": "google"
     },
+    "sbronner.com": {
+      "mode": "testing",
+      "mxs": [
+        "mail.sbronner.com",
+      ],
+    },
     "yahoo.com": {
       "policy-alias": "yahoo"
     },
